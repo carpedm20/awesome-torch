@@ -9,7 +9,7 @@ A curated list of awesome Torch tutorials, projects and communities.
 - [Model Zoo](#model-zoo)
     - [Recurrent Networks](#recurrent-networks)
     - [Convolutional Networks](#convolutional-networks)
-    - [ETC](#ETC)
+    - [ETC](#etc)
 - [Libraries](#libraries)
 - [Links](#links)
 
@@ -80,19 +80,14 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 ## Libraries
 
-### Neural Networks
-
 - nn : an easy and modular way to build and train simple or complex neural networks [[Code]](https://github.com/torch/nn) [[Documentation]](http://nn.readthedocs.org/en/rtd/index.html)
+- dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
 - cudnn : Torch FFI bindings for NVIDIA CuDNN [[Code]](https://github.com/soumith/cudnn.torch)
-- dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - fbcunn : Facebook's extensions to torch/cunn [[Code]](https://github.com/facebook/fbcunn) [[Documentation]](https://facebook.github.io/fbcunn/fbcunn/index.html)
 - fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
 - loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
-
-### ETC
-
 - iTorch : IPython kernel for Torch with visualization and plotting [[Code]](https://github.com/facebook/iTorch)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
 
