@@ -32,7 +32,7 @@ A curated list of awesome Torch tutorials, projects and communities.
 
 ## Model Zoo
 
-Codes and related articles. `(#)` means authors of code and paper are different
+Codes and related articles. `(#)` means authors of code and paper are different.
 
 ### Recurrent Networks
 
