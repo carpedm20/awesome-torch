@@ -1,6 +1,6 @@
 # Awesome Torch
 
-A curated list of awesome Torch framelists, libraries and software.
+A curated list of awesome Torch tutorials, projects and communities.
 
 
 ## Table of Contents
@@ -16,15 +16,16 @@ A curated list of awesome Torch framelists, libraries and software.
 
 ## Tutorials
 
-- [Applied Deep Learning for Computer Vision with Torch](http://torch.ch/docs/cvpr15.html) CVPR15 Tutorial
+- [Applied Deep Learning for Computer Vision with Torch](http://torch.ch/docs/cvpr15.html) CVPR15 Tutorial [[Slides]](https://github.com/soumith/cvpr2015/blob/master/cvpr-torch.pdf)
     - [Deep Learning with Torch - A 60-minute blitz](https://github.com/soumith/cvpr2015/blob/master/Deep%20Learning%20with%20Torch.ipynb)
     - [NNGraph - graph style neural networks](https://github.com/soumith/cvpr2015/blob/master/NNGraph%20Tutorial.ipynb)
     - [Character-level Recurrent networks. An introduction to real-world nngraph RNN training](https://github.com/soumith/cvpr2015/blob/master/Char-RNN.ipynb)
     - [Deep-Q Reinforcement learning to play Atari games](https://github.com/soumith/cvpr2015/blob/master/DQN%20Training%20iTorch.ipynb)
-- [Machine Learning with Torch7](http://code.madbits.com/wiki/doku.php) for IPAM Summer School on Deep Learning. [[Code]](https://github.com/torch/tutorials)
+- [Machine Learning with Torch](http://code.madbits.com/wiki/doku.php) for IPAM Summer School on Deep Learning. [[Code]](https://github.com/torch/tutorials)
 - [Oxford Computer Science - Machine Learning 2015](https://github.com/oxford-cs-ml-2015)
 - [Implementing LSTMs with nngraph](http://apaszke.github.io/lstm-explained.html)
 - [Community Wiki (Cheatseet) for Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
+- [Demos & Turorials for Torch](https://github.com/torch/demos)
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
 
@@ -82,13 +83,13 @@ Codes and related articles. `(#)` means authors of code and paper are different
 ### Neural Networks
 
 - nn : an easy and modular way to build and train simple or complex neural networks [[Code]](https://github.com/torch/nn) [[Documentation]](http://nn.readthedocs.org/en/rtd/index.html)
-- nngraph : provides graphical computation for `nn` library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
+- nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
 - cudnn : Torch FFI bindings for NVIDIA CuDNN [[Code]](https://github.com/soumith/cudnn.torch)
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - fbcunn : Facebook's extensions to torch/cunn [[Code]](https://github.com/facebook/fbcunn) [[Documentation]](https://facebook.github.io/fbcunn/fbcunn/index.html)
 - fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
-- loadcaffe : Load Caffe networks in Torch7 [[Code]](https://github.com/szagoruyko/loadcaffe)
+- loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
 
 ### ETC
 
