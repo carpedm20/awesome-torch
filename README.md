@@ -9,8 +9,11 @@ A curated list of awesome Torch tutorials, projects and communities.
 - [Model Zoo](#model-zoo)
     - [Recurrent Networks](#recurrent-networks)
     - [Convolutional Networks](#convolutional-networks)
-    - [ETC](#etc)
+    - [ETC](#model-zoo-etc)
 - [Libraries](#libraries)
+    - [Model related](#model-related)
+    - [GPU related](#gpu-related)
+    - [ETC](#libraries-etc)
 - [Links](#links)
 
 
@@ -65,6 +68,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, Yann LeCun, *OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks*, arXiv:1312.6229 [[Paper]](http://arxiv.org/abs/1312.6229)
 - [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/soumith/imagenet-multiGPU.torch)
 
+<a name="model-zoo-etc" />
 ### ETC
 
 - [Neural Attention Model for Abstractive Summarization](https://github.com/facebook/NAMAS)
@@ -83,18 +87,30 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 ## Libraries
 
+### Model related
+
 - nn : an easy and modular way to build and train simple or complex neural networks [[Code]](https://github.com/torch/nn) [[Documentation]](http://nn.readthedocs.org/en/rtd/index.html)
+- rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - optim : A numeric optimization package for Torch [[Code]](https://github.com/torch/optim)
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
+
+### GPU related
+
 - cutorch : A CUDA backend for Torch [[Code]](https://github.com/torch/cutorch)
 - cudnn : Torch FFI bindings for NVIDIA CuDNN [[Code]](https://github.com/soumith/cudnn.torch)
-- rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - fbcunn : Facebook's extensions to torch/cunn [[Code]](https://github.com/facebook/fbcunn) [[Documentation]](https://facebook.github.io/fbcunn/fbcunn/index.html)
-- fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
-- loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
+
+### IDE related
+
 - iTorch : IPython kernel for Torch with visualization and plotting [[Code]](https://github.com/facebook/iTorch)
 - zbs-torch : A lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer [[Code]](https://github.com/soumith/zbs-torch)
+
+<a name="libraries-etc" />
+### ETC
+
+- fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
+- loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
 
 
