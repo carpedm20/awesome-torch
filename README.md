@@ -41,16 +41,19 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [Tree-LSTM (Tree-structured Long Short-Term Memory networks)](https://github.com/stanfordnlp/treelstm)
     - Kai Sheng Tai, Richard Socher, Christopher D. Manning, *Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks*, ACL 2015 [[Paper]](http://arxiv.org/abs/1503.00075)
 - [LSTM language model with CNN over characters](https://github.com/yoonkim/lstm-char-cnn)
-    - Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, *Character-Aware Neural Language Models*, arXiv:1508.06615 [[Paper]](http://arxiv.org/pdf/1508.06615)
-- [LSTM](https://github.com/wojzaremba/lstm)
+    - Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, *Character-Aware Neural Language Models*, arXiv:1508.06615 [[Paper]](http://arxiv.org/abs/1508.06615)
+- [LSTM, GRU, RNN for character-level language (char-rnn)](https://github.com/karpathy/char-rnn)
+    - Andrej Karpathy, Justin Johnson, Li Fei-Fei, *Visualizing and Understanding Recurrent Networks*, arXiv:1506.02078 [[Paper]](http://arxiv.org/abs/1506.02078)
+- [LSTM for word-level language model](https://github.com/wojzaremba/lstm)
     - Wojciech Zaremba, Ilya Sutskever, Oriol Vinyal, *Recurrent Neural Network Regularization*, arXiv:1409.2329 [[Paper]](http://arxiv.org/abs/1409.2329)
-- [RNN & LSTM](https://github.com/wojciechz/learning_to_execute)
+- [LSTM](https://github.com/wojciechz/learning_to_execute)
     - Wojciech Zaremba, Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 [[Paper]](http://arxiv.org/abs/1410.4615)
 - [Grid LSTM](https://github.com/sherjilozair/grid-lstm)
     - (#) Nal Kalchbrenner, Ivo Danihelka, Alex Graves, *Grid Long Short-Term Memory*, arXiv:1507.01526, [[Paper]](http://arxiv.org/abs/1507.01526)
 - [Recurrent Visual Attention Model](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
     - (#) Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, *Recurrent Models of Visual Attention*, NIPS 2014 [[Paper]](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention)
-- [LSTM, GRU, RNN for character-level language (char-rnn)](https://github.com/karpathy/char-rnn)
+- [DRAW (Deep Recurrent Attentive Writer)](https://github.com/vivanov879/draw)
+    - (#) Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, *DRAW: A Recurrent Neural Network For Image Generation*, arXiv:1502.04623 [[Paper]](http://arxiv.org/abs/1502.04623)
 
 ### Convolutional Networks
 
@@ -60,7 +63,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, *A Neural Algorithm of Artistic Style*, arXiv:1508.06576 [[Paper]](http://arxiv.org/abs/1508.06576)
 - [Overfeat](https://github.com/jhjin/overfeat-torch)
     - (#) Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, Yann LeCun, *OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks*, arXiv:1312.6229 [[Paper]](http://arxiv.org/abs/1312.6229)
-- [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/facebook/fbcunn/tree/master/examples/imagenet)
+- [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/soumith/imagenet-multiGPU.torch)
 
 ### ETC
 
@@ -81,17 +84,21 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 ## Libraries
 
 - nn : an easy and modular way to build and train simple or complex neural networks [[Code]](https://github.com/torch/nn) [[Documentation]](http://nn.readthedocs.org/en/rtd/index.html)
+- optim : A numeric optimization package for Torch [[Code]](https://github.com/torch/optim)
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
+- cutorch : A CUDA backend for Torch [[Code]](https://github.com/torch/cutorch)
 - cudnn : Torch FFI bindings for NVIDIA CuDNN [[Code]](https://github.com/soumith/cudnn.torch)
 - rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - fbcunn : Facebook's extensions to torch/cunn [[Code]](https://github.com/facebook/fbcunn) [[Documentation]](https://facebook.github.io/fbcunn/fbcunn/index.html)
 - fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
 - loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
 - iTorch : IPython kernel for Torch with visualization and plotting [[Code]](https://github.com/facebook/iTorch)
+- zbs-torch : A lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer [[Code]](https://github.com/soumith/zbs-torch)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
 
 
 ## Links
 
 - [Google Groups for torch](https://groups.google.com/forum/#!forum/torch7)
+- [Gitter Chat](https://gitter.im/torch/torch7)
