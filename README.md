@@ -13,6 +13,7 @@ A curated list of awesome Torch tutorials, projects and communities.
 - [Libraries](#libraries)
     - [Model related](#model-related)
     - [GPU related](#gpu-related)
+    - [IDE related](#ide-related)
     - [ETC](#libraries-etc)
 - [Links](#links)
 
@@ -79,6 +80,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Alex Graves, Greg Wayne, Ivo Danihelka, *Neural Turing Machines*, arXiv:1410.5401 [[Paper]](http://arxiv.org/abs/1410.5401)
 - [Deep Q-network](https://sites.google.com/a/deepmind.com/dqn/), [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
     - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis, *Human-Level Control through Deep Reinforcement Learning*, Nature, [[Paper]](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+- [Eyescream (Natural Image Generation using ConvNets)](https://github.com/facebook/eyescream)
+    - Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, *Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks*, arXiv:1506.05751 [[Paper]](http://arxiv.org/abs/1506.05751)
 - [TripletNet](https://github.com/eladhoffer/TripletNet)
     - (#) Elad Hoffer, Nir Ailon, *Deep metric learning using Triplet network*, arXiv:1412.6622 [[Paper]](http://arxiv.org/abs/1412.6622)
 - [Word2Vec](https://github.com/yoonkim/word2vec_torch)
