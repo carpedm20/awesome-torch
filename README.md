@@ -90,6 +90,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Elad Hoffer, Nir Ailon, *Deep metric learning using Triplet network*, arXiv:1412.6622 [[Paper]](http://arxiv.org/abs/1412.6622)
 - [Word2Vec](https://github.com/yoonkim/word2vec_torch)
     - (#) Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean, *Efficient Estimation of Word Representations in Vector Space*, ICLR 2013 [[Paper]](http://arxiv.org/abs/1301.3781)
+- [TripletLoss (used in Google's FaceNet)](https://github.com/Atcold/torch-TripletEmbedding)
+    - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
 
 
 ## Libraries
