@@ -86,6 +86,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, *Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks*, arXiv:1506.05751 [[Paper]](http://arxiv.org/abs/1506.05751)
 - [BNN (Bilingual Neural Networks) with LBL and CNN](https://bitbucket.org/ketran/morphbinn)
     - Ke Tran, Arianna Bisazza, Christof Monz, *Word Translation Prediction for Morphologically Rich Languages with Bilingual Neural Networks*, EMNLP 2014 [[Paper]](http://emnlp2014.org/papers/pdf/EMNLP2014175.pdf)
+- [DSSM (Deep Structured Semantic Model)](https://github.com/jiasenlu/CDSSM)
+    - (#) Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Acero, Larry Heck, *Learning Deep Structured Semantic Models for Web Search using Clickthrough Data*, CIKM 2013 [[Paper]](http://research.microsoft.com/apps/pubs/default.aspx?id=198202)
 - [TripletNet](https://github.com/eladhoffer/TripletNet)
     - (#) Elad Hoffer, Nir Ailon, *Deep metric learning using Triplet network*, arXiv:1412.6622 [[Paper]](http://arxiv.org/abs/1412.6622)
 - [Word2Vec](https://github.com/yoonkim/word2vec_torch)
