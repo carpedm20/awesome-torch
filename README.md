@@ -63,6 +63,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 - [Crepe (Character-level Convolutional Networks for Text Classification)](https://github.com/zhangxiangxiao/Crepe)
     - Xiang Zhang, Junbo Zhao, Yann LeCun. *Character-level Convolutional Networks for Text Classification*, NIPS 2015 [[Paper]](http://arxiv.org/abs/1509.01626)
+- [OpenFace (Face recognition with Google's FaceNet deep neural network)](https://github.com/cmusatyalab/openface)
+    - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
 - [Neural Style](https://github.com/jcjohnson/neural-style), [Neural Art](https://github.com/kaishengtai/neuralart)
     - (#) Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, *A Neural Algorithm of Artistic Style*, arXiv:1508.06576 [[Paper]](http://arxiv.org/abs/1508.06576)
 - [Overfeat](https://github.com/jhjin/overfeat-torch)
