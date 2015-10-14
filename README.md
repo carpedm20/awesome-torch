@@ -67,8 +67,12 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
 - [Neural Style](https://github.com/jcjohnson/neural-style), [Neural Art](https://github.com/kaishengtai/neuralart)
     - (#) Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, *A Neural Algorithm of Artistic Style*, arXiv:1508.06576 [[Paper]](http://arxiv.org/abs/1508.06576)
+- [SRCNN (Super-Resolution Using Deep Convolutional Networks)](https://github.com/nagadomi/waifu2x)
+    - (#) Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, *Image Super-Resolution Using Deep Convolutional Networks*, arXiv:1501.00092 [[Paper]](http://arxiv.org/abs/1501.00092)
 - [Overfeat](https://github.com/jhjin/overfeat-torch)
     - (#) Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, Yann LeCun, *OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks*, arXiv:1312.6229 [[Paper]](http://arxiv.org/abs/1312.6229)
+- [Very Deep ConvNet (Very Deep Convolutional Networks)](https://github.com/nagadomi/kaggle-cifar10-torch7)
+    - (#) K. Simonyan, A. Zisserman, *Very Deep Convolutional Networks for Large-Scale Image Recognition*, arXiv:1409.1556 [[Paper]](http://arxiv.org/abs/1409.1556)
 - [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/soumith/imagenet-multiGPU.torch)
 
 <a name="model-zoo-etc" />
