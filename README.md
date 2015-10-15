@@ -92,6 +92,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Ke Tran, Arianna Bisazza, Christof Monz, *Word Translation Prediction for Morphologically Rich Languages with Bilingual Neural Networks*, EMNLP 2014 [[Paper]](http://emnlp2014.org/papers/pdf/EMNLP2014175.pdf)
 - [DSSM (Deep Structured Semantic Model)](https://github.com/jiasenlu/CDSSM)
     - (#) Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Acero, Larry Heck, *Learning Deep Structured Semantic Models for Web Search using Clickthrough Data*, CIKM 2013 [[Paper]](http://research.microsoft.com/apps/pubs/default.aspx?id=198202)
+- [TensorNet (Tensor Train-layer for Neural Nets)](https://github.com/vadimkantorov/tensornet.torch)
+    - (#) Alexander Novikov, Dmitry Podoprikhin, Anton Osokin, Dmitry Vetrov, *Tensorizing Neural Networks*, NIPS 2015 [[Paper]](http://arxiv.org/abs/1509.06569v1)
 - [TripletNet](https://github.com/eladhoffer/TripletNet)
     - (#) Elad Hoffer, Nir Ailon, *Deep metric learning using Triplet network*, arXiv:1412.6622 [[Paper]](http://arxiv.org/abs/1412.6622)
 - [Word2Vec](https://github.com/yoonkim/word2vec_torch)
