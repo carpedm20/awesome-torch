@@ -65,6 +65,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 - [Crepe (Character-level Convolutional Networks for Text Classification)](https://github.com/zhangxiangxiao/Crepe)
     - Xiang Zhang, Junbo Zhao, Yann LeCun. *Character-level Convolutional Networks for Text Classification*, NIPS 2015 [[Paper]](http://arxiv.org/abs/1509.01626)
+- [Inception](https://github.com/soumith/inception.torch)
+    - (#) Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, *Going Deeper with Convolutions*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1409.4842)
 - [OpenFace (Face recognition with Google's FaceNet deep neural network)](https://github.com/cmusatyalab/openface)
     - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
 - [Neural Style](https://github.com/jcjohnson/neural-style), [Neural Art](https://github.com/kaishengtai/neuralart)
@@ -92,6 +94,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, *Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks*, arXiv:1506.05751 [[Paper]](http://arxiv.org/abs/1506.05751)
 - [BNN (Bilingual Neural Networks) with LBL and CNN](https://bitbucket.org/ketran/morphbinn)
     - Ke Tran, Arianna Bisazza, Christof Monz, *Word Translation Prediction for Morphologically Rich Languages with Bilingual Neural Networks*, EMNLP 2014 [[Paper]](http://emnlp2014.org/papers/pdf/EMNLP2014175.pdf)
+- [Net2Net](https://github.com/soumith/net2net.torch)
+    - (#) Tianqi Chen, Ian Goodfellow, Jonathon Shlens, *Net2Net: Accelerating Learning via Knowledge Transfer*, arXiv:1511.05641 [[Paper]](http://arxiv.org/abs/1511.05641)
 - [DSSM (Deep Structured Semantic Model)](https://github.com/jiasenlu/CDSSM)
     - (#) Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Acero, Larry Heck, *Learning Deep Structured Semantic Models for Web Search using Clickthrough Data*, CIKM 2013 [[Paper]](http://research.microsoft.com/apps/pubs/default.aspx?id=198202)
 - [TensorNet (Tensor Train-layer for Neural Nets)](https://github.com/vadimkantorov/tensornet.torch)
