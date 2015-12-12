@@ -55,7 +55,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [LSTM](https://github.com/wojciechz/learning_to_execute)
     - Wojciech Zaremba, Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 [[Paper]](http://arxiv.org/abs/1410.4615)
 - [NeuralTalk2 (Show and Tell)](https://github.com/karpathy/neuraltalk2)
-    - (#)Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, *Show and Tell: A Neural Image Caption Generator*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1411.4555)
+    - (#) Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, *Show and Tell: A Neural Image Caption Generator*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1411.4555)
 - [Seq2Seq](https://github.com/macournoyer/neuralconvo)
     - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*,  NIPS 2014 [[Paper]](https://github.com/macournoyer/neuralconvo)
 - [LSTM (Sequence to Sequence Learning with Neural Networks)](https://github.com/vivanov879/translator)
