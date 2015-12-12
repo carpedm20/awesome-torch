@@ -40,6 +40,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 ### Recurrent Networks
 
+- [Learning Simple Algorithms from Examples](https://github.com/wojzaremba/algorithm-learning)
+    - Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus, *Learning Simple Algorithms from Examples*, arXiv:1511.07275 [[Paper]](http://arxiv.org/abs/1511.07275)
 - [SCRNN (Structurally Constrained Recurrent Neural Network)](https://github.com/facebook/SCRNNs)
     - Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu, Marc'Aurelio Ranzato, *Learning Longer Memory in Recurrent Neural Networks*, arXiv:1406.1078 [[Paper]](http://arxiv.org/abs/1412.7753)
 - [Tree-LSTM (Tree-structured Long Short-Term Memory networks)](https://github.com/stanfordnlp/treelstm)
@@ -52,6 +54,10 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Wojciech Zaremba, Ilya Sutskever, Oriol Vinyal, *Recurrent Neural Network Regularization*, arXiv:1409.2329 [[Paper]](http://arxiv.org/abs/1409.2329)
 - [LSTM](https://github.com/wojciechz/learning_to_execute)
     - Wojciech Zaremba, Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 [[Paper]](http://arxiv.org/abs/1410.4615)
+- [NeuralTalk2 (Show and Tell)](https://github.com/karpathy/neuraltalk2)
+    - (#)Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, *Show and Tell: A Neural Image Caption Generator*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1411.4555)
+- [Seq2Seq](https://github.com/macournoyer/neuralconvo)
+    - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*,  NIPS 2014 [[Paper]](https://github.com/macournoyer/neuralconvo)
 - [LSTM (Sequence to Sequence Learning with Neural Networks)](https://github.com/vivanov879/translator)
     - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*, NIPS 2014 [[Paper]](http://arxiv.org/abs/1409.3215)
 - [Grid LSTM](https://github.com/sherjilozair/grid-lstm)
@@ -64,7 +70,9 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 ### Convolutional Networks
 
 - [Crepe (Character-level Convolutional Networks for Text Classification)](https://github.com/zhangxiangxiao/Crepe)
-    - Xiang Zhang, Junbo Zhao, Yann LeCun. *Character-level Convolutional Networks for Text Classification*, NIPS 2015 [[Paper]](http://arxiv.org/abs/1509.01626)
+    - Xiang Zhang, Junbo Zhao, Yann LeCun, *Character-level Convolutional Networks for Text Classification*, NIPS 2015 [[Paper]](http://arxiv.org/abs/1509.01626)
+- [DCGAN (Deep Convolutional Generative Adversarial Networks)](https://github.com/soumith/dcgan.torch)
+    - (#) Alec Radford, Luke Metz, Soumith Chintala, *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks*, arXiv:1511.06434v1 [[Paper]](http://arxiv.org/abs/1511.06434)
 - [Inception](https://github.com/soumith/inception.torch)
     - (#) Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, *Going Deeper with Convolutions*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1409.4842)
 - [OpenFace (Face recognition with Google's FaceNet deep neural network)](https://github.com/cmusatyalab/openface)
