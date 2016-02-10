@@ -121,6 +121,9 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 ### Model related
 
 - nn : an easy and modular way to build and train simple or complex neural networks [[Code]](https://github.com/torch/nn) [[Documentation]](http://nn.readthedocs.org/en/rtd/index.html)
+- dpnn : extensions to the nn lib, more modules [[Code]](https://github.com/Element-Research/dpnn)
+- nnx : extension to the nn lib, experimental neural network modules and criterions [[Code]](https://github.com/clementfarabet/lua---nnx)
+- nninit : weight initialisation schemes [[Code]](https://github.com/Kaixhin/nninit)
 - rnn : Recurrent Neural Network library [[Code]](https://github.com/Element-Research/rnn)
 - optim : A numeric optimization package for Torch [[Code]](https://github.com/torch/optim)
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
@@ -135,13 +138,15 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 ### IDE related
 
 - iTorch : IPython kernel for Torch with visualization and plotting [[Code]](https://github.com/facebook/iTorch)
+- Lua Development Tools (LDT) : based on Eclipse [[Code]](https://eclipse.org/ldt/)
 - zbs-torch : A lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer [[Code]](https://github.com/soumith/zbs-torch)
 
-<a name="libraries-etc" />
+
 ### ETC
 
 - fblualib : Facebook libraries and utilities for Lua [[Code]](https://github.com/facebook/fblualib)
 - loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
+- Purdue e-lab lib : A collection of snippets and libraries [[Code]](https://github.com/e-lab/torch-toolbox)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
 
 
