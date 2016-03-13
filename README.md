@@ -66,6 +66,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, *Recurrent Models of Visual Attention*, NIPS 2014 [[Paper]](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention)
 - [DRAW (Deep Recurrent Attentive Writer)](https://github.com/vivanov879/draw)
     - (#) Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, *DRAW: A Recurrent Neural Network For Image Generation*, arXiv:1502.04623 [[Paper]](http://arxiv.org/abs/1502.04623)
+- [Pixel rnn](https://github.com/zhirongw/pixel-rnn)
+    - (#) Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, *Pixel Recurrent Neural Networks*, arXiv:1601.06759 [[Paper]](http://arxiv.org/abs/1601.06759)
 
 ### Convolutional Networks
 
@@ -86,6 +88,10 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [Very Deep ConvNet (Very Deep Convolutional Networks)](https://github.com/nagadomi/kaggle-cifar10-torch7)
     - (#) K. Simonyan, A. Zisserman, *Very Deep Convolutional Networks for Large-Scale Image Recognition*, arXiv:1409.1556 [[Paper]](http://arxiv.org/abs/1409.1556)
 - [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/soumith/imagenet-multiGPU.torch)
+- [Fast neural doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
+    - (#) Alex J. Champandard *Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks*, arXiv:1603.01768 [[Paper]](http://arxiv.org/abs/1603.01768)
+- [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://github.com/DmitryUlyanov/texture_nets)
+    - Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky *Texture Networks: Feed-forward Synthesis of Textures and Stylized Images*, arXiv:1603.03417 [[Paper]](http://arxiv.org/abs/1603.03417)
 
 <a name="model-zoo-etc" />
 ### ETC
