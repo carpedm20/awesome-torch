@@ -235,7 +235,6 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
 - Purdue e-lab lib : A collection of snippets and libraries [[Code]](https://github.com/e-lab/torch-toolbox)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
-- torch-toolbox : A collection of snippets and libraries for Torch from Purdue e-Lab. [[Code]](https://github.com/e-lab/torch-toolbox)
 - torch-models : Implementation of state-of-art models in Torch. [[Code]](https://github.com/aciditeam/torch-models)
 - lutorpy : Lutorpy is a libray built for deep learning with torch in python. [[Code]](https://github.com/imodpasteur/lutorpy)
 - CoreNLP.lua : Lua client for Stanford CoreNLP. [[Code]](https://github.com/vzhong/CoreNLP.lua)
