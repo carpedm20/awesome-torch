@@ -75,7 +75,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [DenseCap](https://github.com/jcjohnson/densecap)
     - Justin Johnson, Andrej Karpathy, Li Fei-Fei, *DenseCap: Fully Convolutional Localization Networks for Dense Captioning*, CVPR 2016, [[Paper]](http://arxiv.org/abs/1511.07571v1)
 - [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
-    - (#) Minh-Thang Luong, Hieu Pham, Christopher D. Manning, *Effective Approaches to Attention-based Neural Machine Translation*, arXiv:1508.04025, [[Paper]](http://arxiv.org/abs/1508.04025v5)
+    - (#) Minh-Thang Luong, Hieu Pham, Christopher D. Manning, *Effective Approaches to Attention-based Neural Machine Translation*, EMNLP 2015, [[Paper]](http://arxiv.org/abs/1508.04025v5)
 - [Recurrent Batch Normalization](https://github.com/iassael/torch-bnlstm)
     - (#) Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, *Recurrent Batch Normalization*, arXiv:1603.09025, [[Paper]](http://arxiv.org/abs/1603.09025)
 - [End-to-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)
@@ -211,6 +211,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
 - nnlr : Add layer-wise learning rate schemes to Torch [[Code]](https://github.com/gpleiss/nnlr)
+- optnet: Memory optimizations for torch neural networks. [[Code]](https://github.com/fmassa/optimize-net)
+- autograd : Autograd automatically differentiates native Torch code. [[Code]](https://github.com/twitter/torch-autograd)
 
 ### GPU related
 
