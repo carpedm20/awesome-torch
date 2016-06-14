@@ -31,7 +31,7 @@ A curated list of awesome Torch tutorials, projects and communities.
 - [Community Wiki (Cheatseet) for Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
 - [Demos & Turorials for Torch](https://github.com/torch/demos)
 - [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
-
+- [Torch Starter](https://github.com/cvondrick/torch-starter)
 
 
 ## Model Zoo
@@ -47,9 +47,9 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [Tree-LSTM (Tree-structured Long Short-Term Memory networks)](https://github.com/stanfordnlp/treelstm)
     - Kai Sheng Tai, Richard Socher, Christopher D. Manning, *Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks*, ACL 2015 [[Paper]](http://arxiv.org/abs/1503.00075)
 - [LSTM language model with CNN over characters](https://github.com/yoonkim/lstm-char-cnn)
-    - Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, *Character-Aware Neural Language Models*, arXiv:1508.06615 [[Paper]](http://arxiv.org/abs/1508.06615)
+    - Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, *Character-Aware Neural Language Models*, AAAI 2016, [[Paper]](http://arxiv.org/abs/1508.06615)
 - [LSTM, GRU, RNN for character-level language (char-rnn)](https://github.com/karpathy/char-rnn), [word-rnn](https://github.com/larspars/word-rnn)
-    - Andrej Karpathy, Justin Johnson, Li Fei-Fei, *Visualizing and Understanding Recurrent Networks*, arXiv:1506.02078 [[Paper]](http://arxiv.org/abs/1506.02078)
+    - Andrej Karpathy, Justin Johnson, Li Fei-Fei, *Visualizing and Understanding Recurrent Networks*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1506.02078)
 - [LSTM for word-level language model](https://github.com/wojzaremba/lstm)
     - Wojciech Zaremba, Ilya Sutskever, Oriol Vinyal, *Recurrent Neural Network Regularization*, arXiv:1409.2329 [[Paper]](http://arxiv.org/abs/1409.2329)
 - [LSTM](https://github.com/wojciechz/learning_to_execute)
@@ -66,6 +66,21 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, *Recurrent Models of Visual Attention*, NIPS 2014 [[Paper]](http://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention)
 - [DRAW (Deep Recurrent Attentive Writer)](https://github.com/vivanov879/draw)
     - (#) Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, *DRAW: A Recurrent Neural Network For Image Generation*, arXiv:1502.04623 [[Paper]](http://arxiv.org/abs/1502.04623)
+- [Pixel rnn](https://github.com/zhirongw/pixel-rnn)
+    - (#) Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, *Pixel Recurrent Neural Networks*, arXiv:1601.06759 [[Paper]](http://arxiv.org/abs/1601.06759)
+- [Deeper LSTM+ normalized CNN for Visual Question Answering](https://github.com/VT-vision-lab/VQA_LSTM_CNN)
+    - Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, Devi Parikh, *VQA: Visual Question Answering*, arXiv:1505.00468, [[Paper]](http://arxiv.org/abs/1505.00468)
+- [CTCSpeechRecognition](https://github.com/SeanNaren/CTCSpeechRecognition)
+    - Dario Amodei, Rishita Anubhai, Eric Battenberg, Carl Case, Jared Casper, Bryan Catanzaro, Jingdong Chen, Mike Chrzanowski, Adam Coates, Greg Diamos, Erich Elsen, Jesse Engel, Linxi Fan, Christopher Fougner, Tony Han, Awni Hannun, Billy Jun, Patrick LeGresley, Libby Lin, Sharan Narang, Andrew Ng, Sherjil Ozair, Ryan Prenger, Jonathan Raiman, Sanjeev Satheesh, David Seetapun, Shubho Sengupta, Yi Wang, Zhiqian Wang, Chong Wang, Bo Xiao, Dani Yogatama, Jun Zhan, Zhenyao Zhu, *Deep Speech 2: End-to-End Speech Recognition in English and Mandarin*, arXiv:1512.02595, [[Paper]](http://arxiv.org/abs/1512.02595v1)
+- [DenseCap](https://github.com/jcjohnson/densecap)
+    - Justin Johnson, Andrej Karpathy, Li Fei-Fei, *DenseCap: Fully Convolutional Localization Networks for Dense Captioning*, CVPR 2016, [[Paper]](http://arxiv.org/abs/1511.07571v1)
+- [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
+    - (#) Minh-Thang Luong, Hieu Pham, Christopher D. Manning, *Effective Approaches to Attention-based Neural Machine Translation*, arXiv:1508.04025, [[Paper]](http://arxiv.org/abs/1508.04025v5)
+- [Recurrent Batch Normalization](https://github.com/iassael/torch-bnlstm)
+    - (#) Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, *Recurrent Batch Normalization*, arXiv:1603.09025, [[Paper]](http://arxiv.org/abs/1603.09025)
+- [End-to-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)
+    -- Colton Gyulay, Michael Farrell, * End-to-End Generative Dialogue*, [[Paper]](https://github.com/michaelfarrell76/,End-To-End-Generative-Dialogue/blob/master/paper/main.pdf)
+
 
 ### Convolutional Networks
 
@@ -86,6 +101,66 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [Very Deep ConvNet (Very Deep Convolutional Networks)](https://github.com/nagadomi/kaggle-cifar10-torch7)
     - (#) K. Simonyan, A. Zisserman, *Very Deep Convolutional Networks for Large-Scale Image Recognition*, arXiv:1409.1556 [[Paper]](http://arxiv.org/abs/1409.1556)
 - [Alexnet, Overfeat, VGG in Torch on multiple GPUs over ImageNet](https://github.com/soumith/imagenet-multiGPU.torch)
+- [Fast neural doodle](https://github.com/DmitryUlyanov/fast-neural-doodle)
+    - (#) Alex J. Champandard *Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks*, arXiv:1603.01768 [[Paper]](http://arxiv.org/abs/1603.01768)
+- [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://github.com/DmitryUlyanov/texture_nets)
+    - Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky *Texture Networks: Feed-forward Synthesis of Textures and Stylized Images*, arXiv:1603.03417 [[Paper]](http://arxiv.org/abs/1603.03417)
+- [Artistic style transfer for videos](https://github.com/manuelruder/artistic-videos)
+    - Manuel Ruder, Alexey Dosovitskiy, Thomas Brox *Artistic style transfer for videos*, arXiv:1604.08610 [[Paper]](http://arxiv.org/abs/1604.08610)
+- [ResNet training in Torch](https://github.com/facebook/fb.resnet.torch)
+    - (#) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, *Deep Residual Learning for Image Recognition*, arXiv:1512.03385, [[Paper]](http://arxiv.org/abs/1512.03385)
+- [Deep Networks with Stochastic Depth](https://github.com/yueatsprograms/Stochastic_Depth)
+    - Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger, *Deep Networks with Stochastic Depth*, arXiv:1603.09382, [[Paper]](http://arxiv.org/abs/1603.09382)
+- [Sentence Convolution Code in Torch](https://github.com/harvardnlp/sent-conv-torch)
+    - (#) Yoon Kim, *Convolutional Neural Networks for Sentence Classification*, arXiv:1408.5882, [[Paper]](https://arxiv.org/abs/1408.5882)
+- [MGANs](https://github.com/chuanli11/MGANs)
+    - Chuan Li, Michael Wand, *Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks*, arXiv:1604.04382, [[Paper]](http://arxiv.org/abs/1604.04382v1)
+- [Deep Residual Networks with 1K Layers](https://github.com/KaimingHe/resnet-1k-layers)
+    - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, *Identity Mappings in Deep Residual Networks*, arXiv:1603.05027, [[Paper]](http://arxiv.org/abs/1603.05027)
+- [Multi-Scale Context Aggregation by Dilated Convolutions](https://github.com/torch/nn/blob/master/doc/convolution.md#nn.SpatialDilatedConvolution)
+    - (#) Fisher Yu, Vladlen Koltun, *Multi-Scale Context Aggregation by Dilated Convolutions*, [[Paper]](http://arxiv.org/abs/1511.07122)
+- [CNNMRF](https://github.com/chuanli11/CNNMRF)
+    - Chuan Li, Michael Wand, *Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis*, arXiv:1601.04589, [[Paper]](http://arxiv.org/abs/1601.04589)
+- [Stacked Hourglass Networks for Human Pose Estimation (Training Code)](https://github.com/anewell/pose-hg-train)
+    - Alejandro Newell, Kaiyu Yang, Jia Deng, *Stacked Hourglass Networks for Human Pose Estimation*, arXiv:1603.06937, [[Paper]](http://arxiv.org/abs/1603.06937)
+- [Wide Residual Networks](https://github.com/szagoruyko/wide-residual-networks)
+    - Sergey Zagoruyko, Nikos Komodakis, *Wide Residual Networks*, *Wide Residual Networks*, arXiv:1605.07146, [[Paper]](http://arxiv.org/abs/1605.07146)
+- [Joint Unsupervised Learning (JULE) of Deep Representations and Image Clusters](https://github.com/jwyang/joint-unsupervised-learning)
+    - Jianwei Yang, Devi Parikh, Dhruv Batra, *Joint Unsupervised Learning of Deep Representations and Image Clusters*, CVPR 2016, [[Paper]](https://arxiv.org/abs/1604.03628)
+- [Torch implementation of the Fast R-CNN](https://github.com/mahyarnajibi/fast-rcnn-torch)
+    - (#) Ross Girshick, *Fast R-CNN*, ICCV 2015, [[Paper]](http://arxiv.org/abs/1504.08083)
+- [Learning Deep Representations of Fine-grained Visual Descriptions](https://github.com/reedscot/cvpr2016)
+    - Scott Reed, Zeynep Akata, Honglak Lee, Bernt Schiele, *Learning Deep Representations of Fine-grained Visual Descriptions*, CVPR 2016, [[Paper]](http://arxiv.org/abs/1605.05395)
+- [Generative Adversarial Text-to-Image Synthesis](https://github.com/reedscot/icml2016)
+    - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee, *Generative Adversarial Text to Image Synthesis*, ICML 2016, [[Paper]](http://arxiv.org/abs/1605.05396)
+- [DarkForest, the Facebook Go engine](https://github.com/facebookresearch/darkforestGo)
+    - Yuandong Tian, Yan Zhu, *Better Computer Go Player with Neural Network and Long-term Prediction*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06410)
+
+
+### Reinforcement Learning
+- [Deep Q-network](https://sites.google.com/a/deepmind.com/dqn/), [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
+    - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis, *Human-Level Control through Deep Reinforcement Learning*, Nature, [[Paper]](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
+- [Deep Attention Recurrent Q-Network](https://github.com/5vision/DARQN)
+    - (#) Ivan Sorokin, Alexey Seleznev, Mikhail Pavlov, Aleksandr Fedorov, Anastasiia Ignateva, *Deep Attention Recurrent Q-Network*, NIPS 2015, [[Paper]](http://arxiv.org/abs/1512.01693v1)
+- [Grid World DQN using torch7](https://github.com/iassael/torch-dqn)
+    - (#) Marc G. Bellemare, Georg Ostrovski, Arthur Guez, Philip S. Thomas, Rémi Munos, *Increasing the Action Gap: New Operators for Reinforcement Learning*, arXiv:1512.04860, [[Paper]](http://arxiv.org/abs/1512.04860)
+- [Deep Q-Networks for Accelerating the Training of Deep Neural Networks](https://github.com/bigaidream-projects/qan)
+    - Jie Fu, Zichuan Lin, Miao Liu, Nicholas Leonard, Jiashi Feng, Tat-Seng Chua, *Deep Q-Networks for Accelerating the Training of Deep Neural Networks*, arXiv:1606.01467, [[Paper]](https://arxiv.org/abs/1606.01467)
+- [ActorMimic](https://github.com/eparisotto/ActorMimic)
+    - Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov, *Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06342)
+- [MazeBase: a sandbox for learning from games](https://github.com/facebook/MazeBase)
+    - Sainbayar Sukhbaatar, Arthur Szlam, Gabriel Synnaeve, Soumith Chintala, Rob Fergus, *MazeBase: A Sandbox for Learning from Games*, arXiv:1511.07401, [[Paper]](http://arxiv.org/abs/1511.07401)
+- [mario-ai](https://github.com/aleju/mario-ai)
+    - This project contains code to train a model that automatically plays the first level of Super Mario World using only raw pixels as the input (no hand-engineered features).The used technique is deep Q-learning, as described in the [Atari paper](http://arxiv.org/abs/1312.5602) ([Summary](https://github.com/aleju/papers/blob/master/neural-nets/Playing_Atari_with_Deep_Reinforcement_Learning.md)), combined with a [Spatial Transformer](https://arxiv.org/abs/1506.02025).
+- [Deep Successor Reinforcement Learning (DSR)](https://github.com/Ardavans/DSR)
+    - Tejas D. Kulkarni, Ardavan Saeedi, Simanta Gautam, Samuel J. Gershman, *Deep Successor Reinforcement Learning*, arXiv:1606.02396, [[Paper]](http://arxiv.org/abs/1606.02396)
+- [ViZDoom](https://github.com/Marqt/ViZDoom)
+    - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
+- [MIXER - Sequence Level Training with Recurrent Neural Networks](https://github.com/facebookresearch/MIXER)
+    - Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba, *Sequence Level Training with Recurrent Neural Networks*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06732)
+- [TorchQLearning](https://github.com/SeanNaren/TorchQLearningExample)
+    - Implementation of a simple example of Q learning in Torch.
+
 
 <a name="model-zoo-etc" />
 ### ETC
@@ -96,8 +171,6 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, *End-To-End Memory Networks*, arXiv:1503.08895, [[Paper]](http://arxiv.org/abs/1503.08895)
 - [Neural Turing Machine](https://github.com/kaishengtai/torch-ntm)
     - Alex Graves, Greg Wayne, Ivo Danihelka, *Neural Turing Machines*, arXiv:1410.5401 [[Paper]](http://arxiv.org/abs/1410.5401)
-- [Deep Q-network](https://sites.google.com/a/deepmind.com/dqn/), [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-    - Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis, *Human-Level Control through Deep Reinforcement Learning*, Nature, [[Paper]](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html)
 - [Eyescream (Natural Image Generation using ConvNets)](https://github.com/facebook/eyescream)
     - Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, *Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks*, arXiv:1506.05751 [[Paper]](http://arxiv.org/abs/1506.05751)
 - [BNN (Bilingual Neural Networks) with LBL and CNN](https://bitbucket.org/ketran/morphbinn)
@@ -114,7 +187,16 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean, *Efficient Estimation of Word Representations in Vector Space*, ICLR 2013 [[Paper]](http://arxiv.org/abs/1301.3781)
 - [TripletLoss (used in Google's FaceNet)](https://github.com/Atcold/torch-TripletEmbedding)
     - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
-
+- [Let there be Color!: Automatic Colorization of Grayscale Images](https://github.com/satoshiiizuka/siggraph2016_colorization)
+    - Satoshi Iizuka, Edgar Simo-Serra, Hiroshi Ishikawa, *Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification*, SIGGRAPH 2016, [[Paper]](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/data/colorization_sig2016.pdf)
+- [Context Encoders: Feature Learning by Inpainting](https://github.com/pathak22/context-encoder)
+    - Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, *Context Encoders: Feature Learning by Inpainting*, CVPR 2016, [[Paper]](https://arxiv.org/abs/1604.07379)
+- [stnbhwd](https://github.com/qassemoquab/stnbhwd)
+    - Max Jaderberg, Karen Simonyan, Andrew Zisserman, Koray Kavukcuoglu, *Spatial Transformer Networks*, arXiv:1506.02025, [[Paper]](http://arxiv.org/abs/1506.02025)
+- [DrMAD](https://github.com/nicholas-leonard/drmad)
+    - (#) Jie Fu, Hongyin Luo, Jiashi Feng, Kian Hsiang Low, Tat-Seng Chua, *DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks*, arXiv:1601.00917, [[Paper]](https://arxiv.org/abs/1601.00917)
+- [Adaptive Neural Compilation](https://github.com/albanD/adaptive-neural-compilation)
+    - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar, *Adaptive Neural Compilation*, arXiv:1605.07969, [[Paper]](http://arxiv.org/abs/1605.07969)
 
 ## Libraries
 
@@ -128,6 +210,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - optim : A numeric optimization package for Torch [[Code]](https://github.com/torch/optim)
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
+- nnlr : Add layer-wise learning rate schemes to Torch [[Code]](https://github.com/gpleiss/nnlr)
 
 ### GPU related
 
@@ -148,6 +231,10 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - loadcaffe : Load Caffe networks in Torch [[Code]](https://github.com/szagoruyko/loadcaffe)
 - Purdue e-lab lib : A collection of snippets and libraries [[Code]](https://github.com/e-lab/torch-toolbox)
 - torch-android : Torch for Android [[Code]](https://github.com/soumith/torch-android)
+- torch-models : Implementation of state-of-art models in Torch. [[Code]](https://github.com/aciditeam/torch-models)
+- lutorpy : Lutorpy is a libray built for deep learning with torch in python. [[Code]](https://github.com/imodpasteur/lutorpy)
+- CoreNLP.lua : Lua client for Stanford CoreNLP. [[Code]](https://github.com/vzhong/CoreNLP.lua)
+- Torchlib: Data structures and libraries for Torch. [[Code]](https://github.com/vzhong/torchlib)
 
 
 ## Links
