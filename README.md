@@ -211,6 +211,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
 - nnlr : Add layer-wise learning rate schemes to Torch [[Code]](https://github.com/gpleiss/nnlr)
+- torchnet: framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming [[Code]](https://github.com/torchnet/torchnet) [[Paper]](https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf)
 
 ### GPU related
 
