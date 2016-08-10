@@ -135,6 +135,9 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee, *Generative Adversarial Text to Image Synthesis*, ICML 2016, [[Paper]](http://arxiv.org/abs/1605.05396)
 - [DarkForest, the Facebook Go engine](https://github.com/facebookresearch/darkforestGo)
     - Yuandong Tian, Yan Zhu, *Better Computer Go Player with Neural Network and Long-term Prediction*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06410)
+- [3D CNN](http://graphics.stanford.edu/projects/3dcnn/)
+    - Qi, Charles R and Su, Hao and Niessner, Matthias and Dai, Angela and Yan, Mengyuan and Guibas, Leonidas J, *Volumetric and Multi-View CNNs for Object Classification on 3D Data*, arXiv preprint arXiv:1604.03265, 2016,
+    - [[Paper]](https://arxiv.org/abs/1604.03265)
 
 
 ### Reinforcement Learning
