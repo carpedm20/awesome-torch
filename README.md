@@ -75,11 +75,20 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - [DenseCap](https://github.com/jcjohnson/densecap)
     - Justin Johnson, Andrej Karpathy, Li Fei-Fei, *DenseCap: Fully Convolutional Localization Networks for Dense Captioning*, CVPR 2016, [[Paper]](http://arxiv.org/abs/1511.07571v1)
 - [Sequence-to-Sequence Learning with Attentional Neural Networks](https://github.com/harvardnlp/seq2seq-attn)
-    - (#) Minh-Thang Luong, Hieu Pham, Christopher D. Manning, *Effective Approaches to Attention-based Neural Machine Translation*, arXiv:1508.04025, [[Paper]](http://arxiv.org/abs/1508.04025v5)
+    - (#) Minh-Thang Luong, Hieu Pham, Christopher D. Manning, *Effective Approaches to Attention-based Neural Machine Translation*, EMNLP 2015, [[Paper]](http://arxiv.org/abs/1508.04025v5)
 - [Recurrent Batch Normalization](https://github.com/iassael/torch-bnlstm)
     - (#) Tim Cooijmans, Nicolas Ballas, César Laurent, Çağlar Gülçehre, Aaron Courville, *Recurrent Batch Normalization*, arXiv:1603.09025, [[Paper]](http://arxiv.org/abs/1603.09025)
 - [End-to-End Generative Dialogue](https://github.com/michaelfarrell76/End-To-End-Generative-Dialogue)
-    -- Colton Gyulay, Michael Farrell, * End-to-End Generative Dialogue*, [[Paper]](https://github.com/michaelfarrell76/,End-To-End-Generative-Dialogue/blob/master/paper/main.pdf)
+    - Colton Gyulay, Michael Farrell, * End-to-End Generative Dialogue*, [[Paper]](https://github.com/michaelfarrell76/,End-To-End-Generative-Dialogue/blob/master/paper/main.pdf)
+- [ActivityNet](https://github.com/jrbtaylor/ActivityNet)
+    - Fabian Caba Heilbron, Victor Escorcia, Bernard Ghanem and Juan Carlos Niebles, *Activitynet: A large-scale video benchmark for human activity understanding*, CVPR 2015, [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf)
+- [SCRNNs](https://github.com/facebook/SCRNNs)
+    - Tomas Mikolov, Armand Joulin, Sumit Chopra, Michael Mathieu, Marc'Aurelio Ranzato, *Learning Longer Memory in Recurrent Neural Networks*, arXiv:1412.7753, [[Paper]](http://arxiv.org/abs/1412.7753)
+- [Hierarchical Question-Image Co-Attention for Visual Question Answering](https://github.com/jiasenlu/HieCoAttenVQA)
+    - Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh, *Hierarchical Question-Image Co-Attention for Visual Question Answering*, arXiv:1606.00061, [[Paper]](https://arxiv.org/abs/1606.00061)
+- [ConvLSTM](https://github.com/viorik/ConvLSTM)
+    - Viorica Patraucean, Ankur Handa, Roberto Cipolla, *Spatio-temporal video autoencoder with differentiable memory*, ICLR 2016 Workshop, [[Paper]](http://arxiv.org/abs/1511.06309)
+
 
 
 ### Convolutional Networks
@@ -90,11 +99,15 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Alec Radford, Luke Metz, Soumith Chintala, *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks*, arXiv:1511.06434v1 [[Paper]](http://arxiv.org/abs/1511.06434)
 - [Inception](https://github.com/soumith/inception.torch)
     - (#) Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, *Going Deeper with Convolutions*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1409.4842)
+- [inception-v3.torch](https://github.com/Moodstocks/inception-v3.torch)
+    - (#) Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna, *Rethinking the Inception Architecture for Computer Vision*, arXiv:1512.00567, [[Paper]](http://arxiv.org/abs/1512.00567)
+- [The inception-resnet-v2 models trained from scratch via torch](https://github.com/lim0606/torch-inception-resnet-v2)
+    - (#) Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning*, arXiv:1602.07261, [[Paper]](https://github.com/lim0606/torch-inception-resnet-v2)
 - [OpenFace (Face recognition with Google's FaceNet deep neural network)](https://github.com/cmusatyalab/openface)
     - (#) Florian Schroff, Dmitry Kalenichenko, James Philbin, *FaceNet: A Unified Embedding for Face Recognition and Clustering*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1503.03832)
 - [Neural Style](https://github.com/jcjohnson/neural-style), [Neural Art](https://github.com/kaishengtai/neuralart)
     - (#) Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, *A Neural Algorithm of Artistic Style*, arXiv:1508.06576 [[Paper]](http://arxiv.org/abs/1508.06576)
-- [SRCNN (Super-Resolution Using Deep Convolutional Networks)](https://github.com/nagadomi/waifu2x)
+- [SRCNN (Super-Resolution Using Deep Convolutional Networks), waifu2x](https://github.com/nagadomi/waifu2x)
     - (#) Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, *Image Super-Resolution Using Deep Convolutional Networks*, arXiv:1501.00092 [[Paper]](http://arxiv.org/abs/1501.00092)
 - [Overfeat](https://github.com/jhjin/overfeat-torch)
     - (#) Pierre Sermanet, David Eigen, Xiang Zhang, Michael Mathieu, Rob Fergus, Yann LeCun, *OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks*, arXiv:1312.6229 [[Paper]](http://arxiv.org/abs/1312.6229)
@@ -137,6 +150,15 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Yuandong Tian, Yan Zhu, *Better Computer Go Player with Neural Network and Long-term Prediction*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06410)
 - [3D CNN](http://graphics.stanford.edu/projects/3dcnn/)
     - Qi, Charles R and Su, Hao and Niessner, Matthias and Dai, Angela and Yan, Mengyuan and Guibas, Leonidas J, *Volumetric and Multi-View CNNs for Object Classification on 3D Data*, arXiv preprint arXiv:1604.03265, 2016, [[Paper]](https://arxiv.org/abs/1604.03265), [[code]](https://github.com/charlesq34/3dcnn.torch)
+- [deepmask](https://github.com/facebookresearch/deepmask)
+    - Pedro O. Pinheiro, Ronan Collobert, Piotr Dollar, *Learning to Segment Object Candidates*, arXiv:1506.06204, [[Paper]](http://arxiv.org/abs/1506.06204)
+    - Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, Piotr Dollàr, *Learning to Refine Object Segments*, arXiv:1603.08695, [[Paper]](http://arxiv.org/abs/1603.08695)
+- [imagenet-multiGPU.torchnet](https://github.com/karandwivedi42/imagenet-multiGPU.torchnet)
+    - imagenet-multiGPU.torch + fb.resnet.torch in torchnet
+- [cvpr2016_stylenet](https://github.com/bobbens/cvpr2016_stylenet)
+    - Edgar Simo-Serra, Hiroshi Ishikawa, *Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction*, CVPR 2016, [[Paper]](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
+- [ENet](https://github.com/e-lab/ENet-training)
+    - Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, *ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation*, arXiv:1606.02147, [[Paper]](https://arxiv.org/abs/1606.02147)
 
 
 ### Reinforcement Learning
@@ -162,6 +184,10 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba, *Sequence Level Training with Recurrent Neural Networks*, ICLR 2016, [[Paper]](http://arxiv.org/abs/1511.06732)
 - [TorchQLearning](https://github.com/SeanNaren/TorchQLearningExample)
     - Implementation of a simple example of Q learning in Torch.
+- [rltorch](https://github.com/ludc/rltorch.git)
+    - This package is a Reinforcement Learning package written in LUA for Torch.
+- [Opponent Modeling in Deep Reinforcement Learning](https://github.com/hhexiy/opponent)
+    - He He, Jordan Boyd-Graber, Kevin Kwok, Hal Daumé III, *Opponent Modeling in Deep Reinforcement Learning*, ICML 2016, [[Paper]](http://www.umiacs.umd.edu/~hhe/papers/2016_icml_opponent.pdf)
 
 
 <a name="model-zoo-etc" />
@@ -199,6 +225,19 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Jie Fu, Hongyin Luo, Jiashi Feng, Kian Hsiang Low, Tat-Seng Chua, *DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks*, arXiv:1601.00917, [[Paper]](https://arxiv.org/abs/1601.00917)
 - [Adaptive Neural Compilation](https://github.com/albanD/adaptive-neural-compilation)
     - Rudy Bunel, Alban Desmaison, Pushmeet Kohli, Philip H.S. Torr, M. Pawan Kumar, *Adaptive Neural Compilation*, arXiv:1605.07969, [[Paper]](http://arxiv.org/abs/1605.07969)
+- [fasttext_torch](https://github.com/kemaswill/fasttext_torch)
+    - (#) Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov, *Bag of Tricks for Efficient Text Classification*, arXiv:1607.01759, [[Paper]](https://arxiv.org/abs/1607.01759)
+- [MemNN](https://github.com/facebook/MemNN)
+    - Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, *End-To-End Memory Networks*, arXiv:1503.08895, [[Paper]](http://arxiv.org/abs/1503.08895)
+- [Variational Auto-encoder](https://github.com/y0ast/VAE-Torch.git)
+    - Diederik P Kingma, Max Welling, *Auto-Encoding Variational Bayes*, arXiv:1312.6114, [[Paper]](http://arxiv.org/abs/1312.6114)
+- [Multimodal Compact Bilinear Pooling for Torch7](https://github.com/jnhwkim/cbp)
+    - (#) Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, [[Paper]](https://arxiv.org/abs/1606.01847)
+- [object-detection.torch](https://github.com/fmassa/object-detection.torch)
+    - Implementation of some object detection frameworks in torch. (Fast-RCNN, threaded RCNN, etc.)
+- [N3: Newtonian Image Understanding: Unfolding the Dynamics of Objects in Statis Images](https://github.com/roozbehm/newtonian)
+    - Roozbeh Mottaghi, Hessam Bagherinezhad, Mohammad Rastegari, Ali Farhadi, *Newtonian Image Understanding: Unfolding the Dynamics of Objects in Static Images*, CVPR 2016, [[Paper]](http://arxiv.org/abs/1511.04048)
+
 
 ## Libraries
 
@@ -213,6 +252,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - dp : a deep learning library designed for streamlining research and development [[Code]](https://github.com/nicholas-leonard/dp) [[Documentation]](http://dp.readthedocs.org/en/latest/#tutorials-and-examples)
 - nngraph : provides graphical computation for *nn* library [[Code]](https://github.com/torch/nngraph) [[Oxford Introduction]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/practicals/practical5.pdf)
 - nnlr : Add layer-wise learning rate schemes to Torch [[Code]](https://github.com/gpleiss/nnlr)
+- optnet: Memory optimizations for torch neural networks. [[Code]](https://github.com/fmassa/optimize-net)
+- autograd : Autograd automatically differentiates native Torch code. [[Code]](https://github.com/twitter/torch-autograd)
 - torchnet: framework for torch which provides a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming [[Code]](https://github.com/torchnet/torchnet) [[Paper]](https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf)
 
 ### GPU related
@@ -238,7 +279,12 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 - lutorpy : Lutorpy is a libray built for deep learning with torch in python. [[Code]](https://github.com/imodpasteur/lutorpy)
 - CoreNLP.lua : Lua client for Stanford CoreNLP. [[Code]](https://github.com/vzhong/CoreNLP.lua)
 - Torchlib: Data structures and libraries for Torch. [[Code]](https://github.com/vzhong/torchlib)
-
+- THFFmpeg: Torch bindings for FFmpeg (reading videos only) [[Code]](https://github.com/MichaelMathieu/THFFmpeg)
+- tunnel: Data Driven Framework for Distributed Computing in Torch 7, [[Code]](https://github.com/zhangxiangxiao/tunnel.git)
+- pytorch: Python wrappers for torch and lua, [[Code]](https://github.com/hughperkins/pytorch)
+- lutorpy: Use torch in python for deep learning., [[Code]](https://github.com/imodpasteur/lutorpy)
+- torch-pcl: Point Cloud Library (PCL) bindings for Torch, [[Code]](https://github.com/Xamla/torch-pcl)
+- Moses: A Lua utility-belt library for functional programming. It complements the built-in Lua table library, making easier operations on arrays, lists, collections. [[Cpde]](https://github.com/Yonaba/Moses)
 
 ## Links
 
