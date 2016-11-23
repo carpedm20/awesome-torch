@@ -258,6 +258,7 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 ### GPU related
 
+- distro-cl: An OpenCL distribution for Torch [[Code]](https://github.com/hughperkins/distro-cl)
 - cutorch : A CUDA backend for Torch [[Code]](https://github.com/torch/cutorch)
 - cudnn : Torch FFI bindings for NVIDIA CuDNN [[Code]](https://github.com/soumith/cudnn.torch)
 - fbcunn : Facebook's extensions to torch/cunn [[Code]](https://github.com/facebook/fbcunn) [[Documentation]](https://facebook.github.io/fbcunn/fbcunn/index.html)
