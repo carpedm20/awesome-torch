@@ -58,6 +58,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - (#) Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, *Show and Tell: A Neural Image Caption Generator*, CVPR 2015 [[Paper]](http://arxiv.org/abs/1411.4555)
 - [Seq2Seq](https://github.com/macournoyer/neuralconvo)
     - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*,  NIPS 2014 [[Paper]](http://arxiv.org/abs/1409.3215)
+- [sentence2vec](https://github.com/kostyaev/sentence2vec)
+    - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*,  NIPS 2014 [[Paper]](http://arxiv.org/abs/1409.3215)
 - [LSTM (Sequence to Sequence Learning with Neural Networks)](https://github.com/vivanov879/translator)
     - (#) Ilya Sutskever, Oriol Vinyals, Quoc V. Le, *Sequence to Sequence Learning with Neural Networks*, NIPS 2014 [[Paper]](http://arxiv.org/abs/1409.3215)
 - [Grid LSTM](https://github.com/sherjilozair/grid-lstm)
