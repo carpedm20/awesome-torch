@@ -40,6 +40,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
 
 ### Recurrent Networks
 
+- [SampleRNN (An Unconditional End-to-End Neural Audio Generation Model)](https://github.com/richardassar/SampleRNN_torch)
+    - Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Sotelo, Aaron Courville, Yoshua Bengio, *SampleRNN: An Unconditional End-to-End Neural Audio Generation Model*, [[Paper]](https://openreview.net/references/pdf?id=rkgzv4Ate)
 - [Learning Simple Algorithms from Examples](https://github.com/wojzaremba/algorithm-learning)
     - Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus, *Learning Simple Algorithms from Examples*, arXiv:1511.07275 [[Paper]](http://arxiv.org/abs/1511.07275)
 - [SCRNN (Structurally Constrained Recurrent Neural Network)](https://github.com/facebook/SCRNNs)
