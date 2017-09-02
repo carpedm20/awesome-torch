@@ -163,7 +163,8 @@ Codes and related articles. `(#)` means authors of code and paper are different.
     - Edgar Simo-Serra, Hiroshi Ishikawa, *Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction*, CVPR 2016, [[Paper]](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraCVPR2016.pdf)
 - [ENet](https://github.com/e-lab/ENet-training)
     - Adam Paszke, Abhishek Chaurasia, Sangpil Kim, Eugenio Culurciello, *ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation*, arXiv:1606.02147, [[Paper]](https://arxiv.org/abs/1606.02147)
-
+- [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
+    - Yanzhao Zhou, Qixiang Ye, Qiang Qiu, Jianbin Jiao, *Oriented Response Networks*, CVPR 2017, [[Paper]](https://arxiv.org/pdf/1701.01833)
 
 ### Reinforcement Learning
 - [Deep Q-network](https://sites.google.com/a/deepmind.com/dqn/), [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
